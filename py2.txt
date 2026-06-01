@@ -1,0 +1,3 @@
+money=int(input("enter the amount:"))
+usd=money/94
+print("usd",usd)
